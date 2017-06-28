@@ -1,2 +1,2 @@
 # hello-world
-Starter repository
+My starter repository fot Github
